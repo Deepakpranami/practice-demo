@@ -1,2 +1,3 @@
 # practice-demo
-this is My first repositry
+This is My first repositry
+Author -: Deepak pranami
